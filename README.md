@@ -151,29 +151,8 @@
 
 ---
 
-## 🌈 Aktivite Yılanım (Snake Game) 🐍
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selinnyuksell5/selinnyuksell5/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selinnyuksell5/selinnyuksell5/output/github-snake.svg" />
-    <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
----
-
-## 🎵 Şu An Dinliyorum
-
-<div align="center">
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315zyxzl2r2e6ynf72a35q4m23zy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff69b4&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315zyxzl2r2e6ynf72a35q4m23zy&redirect=true)
-
-</div>
-
-<p align="center"><em>(Not: Spotify ile bağlamak istersen linkteki uid'yi kendi Spotify kullanıcı ID'nle değiştir. İstemiyorsan bu bölümü silebilirsin 😊)</em></p>
-
----
 
 ## 🌐 Sosyal Medya & İletişim
 
