@@ -33,7 +33,6 @@
 - 💻 &nbsp; **Uzmanlık:** Flutter, Dart, Firebase, Google AI
 - 🎨 &nbsp; **İlgi Alanı:** Kullanıcı odaklı UI/UX tasarımları
 - 📚 &nbsp; **Şu an öğrendiğim:** Swift, SwiftUI, gelişmiş Flutter teknikleri
-- 🍳 &nbsp; **Hobiler:** Yemek yapmak, fotoğrafçılık, bulmaca çözmek
 - 🎯 &nbsp; **Hedef:** Ölçeklenebilir, kullanıcı dostu mobil uygulamalar geliştirmek
 
 > *"Kod yazmak, hayalleri gerçeğe dönüştürmek için en büyülü araçtır."*
