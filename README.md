@@ -18,8 +18,7 @@
 ### 🎯 Kısaca Ben
 
 > 🇹🇷 **Konum:** Türkiye
-> 🎨 **Sevdiğim:** Kullanıcı odaklı UI tasarımları, pembe renk 💖
-> 🍳 **Hobiler:** Yemek yapmak, fotoğraf çekmek, puzzle oynamak
+> 🎨 **Sevdiğim:** Kullanıcı odaklı UI tasarımları
 > 📚 **Öğreniyorum:** Swift, gelişmiş Flutter, SwiftUI
 > 🎯 **Hedef:** Dünya çapında kullanılan uygulamalar geliştirmek
 >
@@ -50,7 +49,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📱 Desteklediğim Platformlar
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
