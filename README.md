@@ -234,14 +234,4 @@
 
 ---
 
-### 📝 KURULUM İÇİN ADIMLAR (AÇIKLAMA):
-1. GitHub'da yeni repo oluştur: **İsim = `selinnyuksell5`** (kullanıcı adınla AYNI olmalı!)
-2. "Add a README file" seçeneğini işaretle (isterme, boş da oluşturabilirsin)
-3. Repo oluşturduktan sonra buradaki `README.md` dosyasının **TÜM içeriğini** kopyala
-4. GitHub'da yeni repondaki README.md dosyasını açıp **YAPISTIR** ve kaydet (Commit changes)
-5. İşte bu kadar! Profiline gir sihri gör ✨
 
-**Kişiselleştirmek için:**
-- Kırmızı yazan yerleri (LinkedIn, Twitter, Instagram linkleri vb.) kendi hesaplarınla değiştir
-- Konum, hobiler, hakkımda metnini kendine göre düzenle
-- Spotify bölümünü kullanmayacaksan sil
