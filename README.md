@@ -12,6 +12,10 @@
 [![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
+<br />
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px" alt="Kod yazan kız animasyonu" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(255, 105, 180, 0.25);" />
+
 </div>
 
 ## Hakkımda
